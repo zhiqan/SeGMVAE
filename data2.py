@@ -23,11 +23,11 @@ class Data:
         x_mva = np.reshape(x_mva, [25, 200,1024])
 
 
-        #x_mte = np.load(os.path.join(data_dir, 'test_FFT1024.npy'))
+        #x_mte = np.load(os.path.join(data_dir, 'test_FFT1024_2.npy'))
         #x_mte = np.transpose(x_mte, (0, 1,2))
         #x_mte = np.reshape(x_mte, [28, 150,1024])
         
-        x_mte = np.load(os.path.join(data_dir, 'test_fft_109lei1024.npy'))
+        x_mte = np.load(os.path.join(data_dir, 'test_fft_109lei1024_2.npy'))
         x_mte = np.transpose(x_mte, (0, 1,2,3))
         #x_mte=x_mte[:,0:150,:,:]
         x_mte = np.reshape(x_mte, [25, 200,1024])
