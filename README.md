@@ -8,6 +8,14 @@
 # If it is helpful for your research, please kindly cite this work:
 ﻿
 ```html
+
+@inproceedings{lee2020meta,
+  title={Meta-gmvae: Mixture of gaussian vae for unsupervised meta-learning},
+  author={Lee, Dong Bok and Min, Dongchan and Lee, Seanie and Hwang, Sung Ju},
+  booktitle={International Conference on Learning Representations},
+  year={2020}
+}
+
 @article{ZHAO2024106482,
 title = {A Semi-supervised Gaussian Mixture Variational Autoencoder method for few-shot fine-grained fault diagnosis},
 journal = {Neural Networks},
