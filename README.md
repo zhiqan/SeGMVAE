@@ -1,4 +1,5 @@
-# [SeGMVAE](https://doi.org/10.1016/j.neunet.2024.106482)
+# SeGMVAE
+## [A Semi-supervised Gaussian Mixture Variational Autoencoder method for few-shot fine-grained fault diagnosis](https://doi.org/10.1016/j.neunet.2024.106482)
 # The main idea of the method in this paper comes from [Meta-GMVAE](https://openreview.net/forum?id=wS0UFjsNYjn).
 # CWRU fine-grained fault dataset
 ## Baidu Netdisk link：https://pan.baidu.com/s/17iIKPcur3oNeTx8-NhRhLQ 
